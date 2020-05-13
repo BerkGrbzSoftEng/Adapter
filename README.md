@@ -12,7 +12,7 @@ arayüzlerinizi kullanmanızı da sağlar.
 Önemli: Yeni bir sürüm geldiğinde, yapmanız
 gereken sadece Adapter’i değiştirmektir.</br>
 
-### **Adapter UML Diyagramı:**</br>
+### **UML Diyagramı:**</br>
 ![Adapter UML](https://github.com/abgsoftware/Adapter/blob/master/Adapter.png)
 
 - **Framework**:
