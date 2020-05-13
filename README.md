@@ -1,5 +1,5 @@
  # Adapter Tasarım Kalıbı
-**Adapter tasarım kalıbı:**</br>
+### **Adapter Tasarım Kalıbı:**</br>
 Temelde birbiriyle uyumsuz ancak aynı işi yapması
 öngörülen iki interface'in haberleştirilmesi için
 kullanılır.
@@ -12,7 +12,7 @@ arayüzlerinizi kullanmanızı da sağlar.
 Önemli: Yeni bir sürüm geldiğinde, yapmanız
 gereken sadece Adapter’i değiştirmektir.</br>
 
-**Adapter UML Diyagramı:**</br>
+### **Adapter UML Diyagramı:**</br>
 ![Adapter UML](https://github.com/abgsoftware/Adapter/blob/master/Adapter.png)
 
 - **Framework**:
