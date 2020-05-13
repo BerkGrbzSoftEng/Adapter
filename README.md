@@ -10,12 +10,12 @@ izin verdiği gibi aynı zamanda sizin var olan
 arayüzlerinizi kullanmanızı da sağlar.
 
 Önemli: Yeni bir sürüm geldiğinde, yapmanız
-gereken sadece Adapter’i değiştirmektir.
-</br>
+gereken sadece Adapter’i değiştirmektir.</br>
 
+**Adapter UML Diyagramı:**</br>
 ![Adapter UML](https://github.com/abgsoftware/Adapter/blob/master/Adapter.png)
 
--**Framework**:
+- **Framework**:
 >Adapter’i kullanan yapı.
 
 
