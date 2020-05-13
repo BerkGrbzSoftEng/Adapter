@@ -13,7 +13,11 @@ arayüzlerinizi kullanmanızı da sağlar.
 gereken sadece Adapter’i değiştirmektir.
 </br>
 
-![Adapter UML](https://drive.google.com/open?id=1nhKq3KgPvkvqwLsfKqssH86vZeEAVI_V)
+![Adapter UML](https://github.com/abgsoftware/Adapter/blob/master/Adapter.png)
+
+-**Framework**:
+>Adapter’i kullanan yapı.
+
 
 - **Adapter**: 
 > Framework’un kullanacağı metotları
